@@ -1,6 +1,6 @@
 /* Continue Point
  * Author: Plonecakes (http://github.com/Plonecakes)
- * Version: 0.0
+ * Version: 0.1
  * License:
  *  Copyright (C) 2012 Plonecakes
  *  Permission is hereby granted, free of charge, to any person obtaining a
@@ -44,7 +44,7 @@
 
 #include "Plugin.h"
 
-#define VERSION "0.0"
+#define VERSION "0.1"
 #define COPYYEARS "2012"
 
 HINSTANCE     hinst;           // DLL instance
